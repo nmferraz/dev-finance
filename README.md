@@ -6,7 +6,6 @@ Financial App
 
 <p align="center">Responsive Github UI Clone for study purposes.</p>
 <p align="center">Deployed <a href="https://nmferraz.github.io/dev-finance/">here</a>.</p>
-<p align="center">Deployed <a href="#">here</a>.</p>
 
 <hr>
 
