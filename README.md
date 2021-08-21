@@ -1,8 +1,6 @@
 <h1 align="center">
   <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
 </h1>
-
-<p align="center">Responsive Github UI Clone for study purposes.</p>
 <p align="center">Deployed <a href="https://nmferraz.github.io/dev-finance/">here</a>.</p>
 
 <hr>
@@ -23,7 +21,7 @@
 
 ## Project
 
-<p>This is a financial control application, where you can register and delete transactions and see the input and output balance</p>
+<p>This is a financial control application, where you can register and delete transactions and see the input and output balance, and save the data in local storage.</p>
 
 ---
 ## Tecnologies
